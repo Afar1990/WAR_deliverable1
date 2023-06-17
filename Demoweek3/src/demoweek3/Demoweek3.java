@@ -18,5 +18,3 @@ public class Demoweek3 {
     }
     
 }
- public static void main(String[] args) {
-        System.out.print("dkjvdkjvbsd kbvdskjb ksdb ");
